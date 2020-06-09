@@ -1,2 +1,3 @@
-# Project exclude paths
-/first-ee-app/target/
+/target
+/out
+/.idea
